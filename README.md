@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Completed this project as a part of Coursera front-end web development course.
 
 ## Available Scripts
 
